@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\OEM\\source\\repos\\EventEase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E2C03B8-4821-BD83-A1E3-CFD21491410A}|EventEase.csproj|c:\\users\\oem\\source\\repos\\eventease\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E2C03B8-4821-BD83-A1E3-CFD21491410A}|EventEase.csproj|solutionrelative:controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E2C03B8-4821-BD83-A1E3-CFD21491410A}|EventEase.csproj|c:\\users\\oem\\source\\repos\\eventease\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E2C03B8-4821-BD83-A1E3-CFD21491410A}|EventEase.csproj|solutionrelative:controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E2C03B8-4821-BD83-A1E3-CFD21491410A}|EventEase.csproj|c:\\users\\oem\\source\\repos\\eventease\\controllers\\venuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E2C03B8-4821-BD83-A1E3-CFD21491410A}|EventEase.csproj|solutionrelative:controllers\\venuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E2C03B8-4821-BD83-A1E3-CFD21491410A}|EventEase.csproj|c:\\users\\oem\\source\\repos\\eventease\\migrations\\20260414203838_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E2C03B8-4821-BD83-A1E3-CFD21491410A}|EventEase.csproj|solutionrelative:migrations\\20260414203838_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E2C03B8-4821-BD83-A1E3-CFD21491410A}|EventEase.csproj|c:\\users\\oem\\source\\repos\\eventease\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E2C03B8-4821-BD83-A1E3-CFD21491410A}|EventEase.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E2C03B8-4821-BD83-A1E3-CFD21491410A}|EventEase.csproj|c:\\users\\oem\\source\\repos\\eventease\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2E2C03B8-4821-BD83-A1E3-CFD21491410A}|EventEase.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E2C03B8-4821-BD83-A1E3-CFD21491410A}|EventEase.csproj|c:\\users\\oem\\source\\repos\\eventease\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E2C03B8-4821-BD83-A1E3-CFD21491410A}|EventEase.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E2C03B8-4821-BD83-A1E3-CFD21491410A}|EventEase.csproj|c:\\users\\oem\\source\\repos\\eventease\\eventease.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2E2C03B8-4821-BD83-A1E3-CFD21491410A}|EventEase.csproj|solutionrelative:eventease.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E2C03B8-4821-BD83-A1E3-CFD21491410A}|EventEase.csproj|c:\\users\\oem\\source\\repos\\eventease\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E2C03B8-4821-BD83-A1E3-CFD21491410A}|EventEase.csproj|solutionrelative:models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E2C03B8-4821-BD83-A1E3-CFD21491410A}|EventEase.csproj|c:\\users\\oem\\source\\repos\\eventease\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E2C03B8-4821-BD83-A1E3-CFD21491410A}|EventEase.csproj|solutionrelative:models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E2C03B8-4821-BD83-A1E3-CFD21491410A}|EventEase.csproj|c:\\users\\oem\\source\\repos\\eventease\\models\\venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E2C03B8-4821-BD83-A1E3-CFD21491410A}|EventEase.csproj|solutionrelative:models\\venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookingsController.cs",
+              "DocumentMoniker": "C:\\Users\\OEM\\source\\repos\\EventEase\\Controllers\\BookingsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookingsController.cs",
+              "ToolTip": "C:\\Users\\OEM\\source\\repos\\EventEase\\Controllers\\BookingsController.cs",
+              "RelativeToolTip": "Controllers\\BookingsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T20:51:40.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventsController.cs",
+              "DocumentMoniker": "C:\\Users\\OEM\\source\\repos\\EventEase\\Controllers\\EventsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EventsController.cs",
+              "ToolTip": "C:\\Users\\OEM\\source\\repos\\EventEase\\Controllers\\EventsController.cs",
+              "RelativeToolTip": "Controllers\\EventsController.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAAAKEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T20:47:41.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VenuesController.cs",
+              "DocumentMoniker": "C:\\Users\\OEM\\source\\repos\\EventEase\\Controllers\\VenuesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VenuesController.cs",
+              "ToolTip": "C:\\Users\\OEM\\source\\repos\\EventEase\\Controllers\\VenuesController.cs",
+              "RelativeToolTip": "Controllers\\VenuesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T20:42:45.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20260414203838_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\OEM\\source\\repos\\EventEase\\Migrations\\20260414203838_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260414203838_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\OEM\\source\\repos\\EventEase\\Migrations\\20260414203838_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20260414203838_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T20:38:38.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\OEM\\source\\repos\\EventEase\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\OEM\\source\\repos\\EventEase\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAADwvx8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T20:36:53.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\OEM\\source\\repos\\EventEase\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\OEM\\source\\repos\\EventEase\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-14T20:36:25.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\OEM\\source\\repos\\EventEase\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\OEM\\source\\repos\\EventEase\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T20:34:56.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EventEase.csproj",
+              "DocumentMoniker": "C:\\Users\\OEM\\source\\repos\\EventEase\\EventEase.csproj",
+              "RelativeDocumentMoniker": "EventEase.csproj",
+              "ToolTip": "C:\\Users\\OEM\\source\\repos\\EventEase\\EventEase.csproj",
+              "RelativeToolTip": "EventEase.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-14T12:29:48.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\OEM\\source\\repos\\EventEase\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\OEM\\source\\repos\\EventEase\\Models\\Booking.cs",
+              "RelativeToolTip": "Models\\Booking.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T12:04:53.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\OEM\\source\\repos\\EventEase\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "Models\\Event.cs",
+              "ToolTip": "C:\\Users\\OEM\\source\\repos\\EventEase\\Models\\Event.cs",
+              "RelativeToolTip": "Models\\Event.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA3wB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T12:01:40.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Venue.cs",
+              "DocumentMoniker": "C:\\Users\\OEM\\source\\repos\\EventEase\\Models\\Venue.cs",
+              "RelativeDocumentMoniker": "Models\\Venue.cs",
+              "ToolTip": "C:\\Users\\OEM\\source\\repos\\EventEase\\Models\\Venue.cs",
+              "RelativeToolTip": "Models\\Venue.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwBQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T11:59:50.406Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
