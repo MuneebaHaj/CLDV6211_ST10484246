@@ -338,3 +338,6 @@ C:\Users\OEM\source\repos\EventEase\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.
 C:\Users\OEM\source\repos\EventEase\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
 C:\Users\OEM\source\repos\EventEase\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
 C:\Users\OEM\source\repos\EventEase\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\OEM\source\repos\EventEase\bin\Debug\net10.0\Azure.Storage.Blobs.dll
+C:\Users\OEM\source\repos\EventEase\bin\Debug\net10.0\Azure.Storage.Common.dll
+C:\Users\OEM\source\repos\EventEase\bin\Debug\net10.0\System.IO.Hashing.dll
